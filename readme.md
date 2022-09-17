@@ -1,4 +1,4 @@
 Name: Hansika Murugu
 SID: 20744133
 
-![preview screenshot] (image/historyscreenshot.png)
+([image/historyscreenshot.png](https://github.com/hmurugu/comp3111-lab1-2022f/blob/master/image/historyscreenshot.png))
